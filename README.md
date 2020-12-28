@@ -1,2 +1,2 @@
-# land-of-langs.github.ro
+# land-of-langs.github.io
 blog
